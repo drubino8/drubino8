@@ -17,7 +17,7 @@ THIS has been your host, Digital Dawson!
 
 Join me for another day in our World of WIRES!</h3>
 
-![GOOD MORNING NIGHT CITY](https://tenor.com/view/good-morning-night-city-good-morning-night-city-gif-26654116.gif)
+![GOOD MORNING NIGHT CITY](GMNC.gif)
 
 <br>
 
