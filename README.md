@@ -26,13 +26,15 @@ Join me for another day in our World of WIRES!</h3>
 <h2>My name is Dawson Rubino</h2>
 <p>I’m a web designer and developer based in Spokane, WA. I love designing both visually appealing and interactive websites for everyone to use!</p>
 
+![Dawson's Portrait](Me_3D.png)
+
 - 🔭 I’m currently working on **README Project**
 
 - 🌱 I’m currently learning **Web Design 3 at Eastern Washington University**
 
 - 👯 I’m looking to collaborate on **Web Design and Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](drubino.webflow.io)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://drubino.webflow.io/)
 
 - 📫 How to reach me **drubino8@gmail.com**
 
@@ -56,14 +58,10 @@ Join me for another day in our World of WIRES!</h3>
 <br>
 
 <h3>Stats:</h3>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=drubino8&show_icons=true&locale=en" alt="drubino8" />
-</p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drubino8&" alt="drubino8" />
-</p>
+![Dawsons's GitHub stats](https://github-readme-stats.vercel.app/api?username=drubino8&show_icons=true&theme=highcontrast)
 
+![Dawsons's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=drubino8&show_icons=true&theme=highcontrast)
 
 <p>
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">Generator Credit</a>
