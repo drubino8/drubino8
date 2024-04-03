@@ -28,13 +28,13 @@ Join me for another day in our World of WIRES!</h3>
 
 ![Dawson's Portrait](Me_3D.png)
 
-- 🔭 I’m currently working on **README Project**
+- 🔭 I’m currently working on **README Project and Learning Astro**
 
 - 🌱 I’m currently learning **Web Design 3 at Eastern Washington University**
 
 - 👯 I’m looking to collaborate on **Web Design and Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://drubino.webflow.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://drubino.webflow.io/)
 
 - 📫 How to reach me **drubino8@gmail.com**
 
