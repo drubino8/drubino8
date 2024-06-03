@@ -36,7 +36,7 @@ Join me for another day in our World of WIRES!</h3>
 
 - 👨‍💻 All of my projects are available at [My Portfolio Website](https://drubino.webflow.io/)
 
-- 📫 How to reach me **drubino8@gmail.com**
+- 📫 How to reach me **dawsonrubino8@gmail.com**
 
 - ⚡ Fun fact **I collect vinyl records and love video games (especially Cyberpunk 2077).**
 
