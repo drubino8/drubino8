@@ -1,4 +1,4 @@
-
+<!-- 
 <h1 style="text-align: left">GOOD MORNING WEB CITY!</h1>
 <h3 style="text-align: left">Yesterday's project count in our digital realm hit a record-breaking fifty!<br>
 <br>
@@ -21,7 +21,7 @@ Join me for another day in our World of WIRES!</h3>
 
 <br>
 
-<h3>On a more serious note, Here's about me:</h3>
+<h3>On a more serious note, Here's about me:</h3> -->
 
 <h2>My name is Dawson Rubino</h2>
 <p>I’m a web designer and developer based in Spokane, WA. I love designing both visually appealing and interactive websites for everyone to use!</p>
