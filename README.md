@@ -30,7 +30,7 @@ Join me for another day in our World of WIRES!</h3>
 
 - 🔭 I’m currently working on **My Vinyl List and Game List** (Both are active repos accessable in my pins)
 
-- 🌱 I’m currently learning **Web Design 3 at Eastern Washington University**
+- 🌱 I’m currently learning **Web Development at Eastern Washington University**
 
 - 👯 I’m looking to collaborate on **Web Design and Development**
 
