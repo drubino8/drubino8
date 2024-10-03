@@ -28,7 +28,7 @@ Join me for another day in our World of WIRES!</h3>
 
 ![Dawson's Portrait](Me_3D.png)
 
-- 🔭 I’m currently working on **My Vinyl List and Game List** (Both are active repos accessable in my pins)
+- 🔭 I’m currently working on converting the data in **My Game List Repo** into an API
 
 - 🌱 I’m currently learning **Web Development at Eastern Washington University**
 
